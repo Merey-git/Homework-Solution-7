@@ -1,7 +1,6 @@
 package part1;
 import java.util.*;
 
-
 public class Series {
     private List<Season> seasons = new ArrayList<>();
 
